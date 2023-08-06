@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 on remote 9
-=======
 on lr 9
->>>>>>> 69cd573 (on lr 9)
 happy week end
